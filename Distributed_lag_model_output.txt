@@ -1,0 +1,23 @@
+Enter Current Year:- 2022
+Enter Total year to simulate:- 5
+Enter Previous Year's National income:- 80.000000
+Enter Previous Year's Goverment Expences:- 20.000000
+			National Economy Simulation
+			Using Distributed Lag Model
+
+National Income from 2022 = 80.00	Government Expences from 2022 = 20.00
+
+
+Sn. 	 Year 	 I 	 T 	 G 	 C 		 Y
+1 	 2023 	 10.00 	 16.00 	 23.00 	 120.36 	 153.36 
+2 	 2024 	 17.34 	 30.67 	 26.45 	 144.84 	 188.63 
+3 	 2025 	 20.86 	 37.73 	 30.42 	 161.86 	 213.14 
+4 	 2026 	 23.31 	 42.63 	 34.98 	 177.78 	 236.07 
+5 	 2027 	 25.61 	 47.21 	 40.23 	 194.89 	 260.73 
+
+
+I = Investment
+T = Tax
+Government Expenses = G
+Consumption = C
+National income = Y
