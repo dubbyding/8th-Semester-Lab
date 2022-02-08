@@ -4,3 +4,6 @@
 .border-set {
   border: 1px solid black;
 }
+.row {
+  width: 100%;
+}
